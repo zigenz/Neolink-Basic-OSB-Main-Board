@@ -31,7 +31,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-IsProjectConflictPreventionWarningsEnabled=0
+IsProjectConflictPreventionWarningsEnabled=1
 ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
@@ -204,40 +204,40 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=AuthorInitials
-Value=XY
+Name=ProjectTitle
+Value=NeoLink Basic Main Board
 
 [Parameter2]
-Name=CGProjectName
-Value=Name of the project as assigned by Capgemini
+Name=ProjectCode
+Value=VIT-2679
 
 [Parameter3]
-Name=ClientName
-Value=
+Name=PCBRev
+Value=01
 
 [Parameter4]
-Name=PCBANo
-Value=
+Name=PCBNo
+Value=7000
 
 [Parameter5]
 Name=PCBARev
-Value=
+Value=01
 
 [Parameter6]
-Name=PCBNo
-Value=
+Name=PCBANo
+Value=7001
 
 [Parameter7]
-Name=PCBRev
-Value=
+Name=ClientName
+Value=VITALTRACE PTY LTD
 
 [Parameter8]
-Name=ProjectCode
-Value=7 or 8 digit number assigned by Capgemini for project.
+Name=CGProjectName
+Value=NeoLink Basic
 
 [Parameter9]
-Name=ProjectTitle
-Value=Name of board or part as it appears in BOM
+Name=AuthorInitials
+Value=ASH
 
 [Configuration1]
 Name=Sources
