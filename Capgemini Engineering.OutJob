@@ -1,0 +1,163 @@
+[OutputJobFile]
+Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
+
+[OutputGroup1]
+Name=Capgemini Engineering.OutJob
+Description=
+TargetOutputMedium=Generate Schematics
+VariantName=[No Variations]
+VariantScope=0
+CurrentConfigurationName=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
+OutputMedium1=Generate Schematics
+OutputMedium1_Type=Publish
+OutputMedium2=Generate STEP Models
+OutputMedium2_Type=GeneratedFiles
+OutputMedium3=Generate Supplier BOM
+OutputMedium3_Type=GeneratedFiles
+OutputType1=Schematic Print
+OutputName1=Schematic - Variant 1
+OutputCategory1=Documentation
+OutputDocumentPath1=[Project Physical Documents]
+OutputVariantName1=01
+OutputEnabled1=1
+OutputEnabled1_OutputMedium1=1
+OutputEnabled1_OutputMedium2=0
+OutputEnabled1_OutputMedium3=0
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.73|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=[Project Physical Documents]
+OutputType2=ExportSTEP
+OutputName2=STEP - Variant 1
+OutputCategory2=Export
+OutputDocumentPath2=
+OutputVariantName2=01
+OutputEnabled2=0
+OutputEnabled2_OutputMedium1=0
+OutputEnabled2_OutputMedium2=1
+OutputEnabled2_OutputMedium3=0
+OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=False|IncludeElectricalPadHoles=False|IncludeFreePadHoles=False|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=1|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=C:\ProgramData\Altium\Altium Designer {959362C3-8475-4F0F-9A84-E4E3F39A339C}\VaultEditCache\1021BCEC-5C48-46FB-8EBA-0FD919A2A595\Released\PCB\[ProjectName].PcbDoc
+OutputType3=BOM_PartType
+OutputName3=Supplier BOM - Variant 1
+OutputCategory3=Report
+OutputDocumentPath3=[ActiveBOM Document]
+OutputVariantName3=
+OutputEnabled3=0
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=0
+OutputEnabled3_OutputMedium3=1
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration3_Name1=ColumnNameFormat
+Configuration3_Item1=CaptionAsName
+Configuration3_Name2=General
+Configuration3_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=8C17DA0B-E907-4658-826C-5F437C7E7423|TemplateItemGuid=2E6F92E9-3B3B-4D79-BA73-BA329E3742E2|TemplateRevisionGuid=16259B93-A56D-406E-8E91-2841F4B27BAC|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=10|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration3_Name3=GroupOrder
+Configuration3_Item3=
+Configuration3_Name4=SortOrder
+Configuration3_Item4=Description=Up
+Configuration3_Name5=VisibleOrder
+Configuration3_Item5=Line #=54|Comment=127|Description=193|Designator=80|Revision ID=80|Revision State=117|Revision Status=101|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration3_Name6=VisibleOrder_Base
+Configuration3_Item6=Line #=54|Comment=127|Description=193|Designator=80|Revision ID=80|Revision State=117|Revision Status=101|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration3_Name7=VisibleOrder_Consolidated
+Configuration3_Item7=Line #=54|Comment=131|Description=272|Designator=80|Revision ID=130|Revision State=95|Revision Status=101|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122|Supplier Stock 1=106|Quantity@01=62|Price@01=69
+Configuration3_Name8=VisibleOrder_Flat
+Configuration3_Item8=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Revision State=100|Revision Status=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+
+[PublishSettings]
+OutputFilePath1=C:\ProgramData\Altium\Altium Designer {959362C3-8475-4F0F-9A84-E4E3F39A339C}\VaultEditCache\72D3FB8A-82EF-4297-B194-4E7EF3F2719A\Released\Project Outputs for [ProjectName]\ENG\SCH\
+ReleaseManaged1=1
+OutputBasePath1=Project Outputs for [ProjectName]
+OutputPathMedia1=ENG\SCH\
+OutputPathMediaValue1=ENG\SCH\
+OutputPathOutputer1=
+OutputPathOutputerPrefix1=
+OutputPathOutputerValue1==ClientCode+'-'+JobNo+'-'+PCBANo+'-'+PCBARev+'-('+VariantName+')-SCH '+ProjectTitle
+OutputFileName1=Capgemini Engineering.PDF
+OutputFileNameMulti1==ProjectCode+'-'+PCBANo+'-'+PCBARev+'-('+VariantName+')-SCH '+ProjectTitle
+UseOutputNameForMulti1=0
+OutputFileNameSpecial1=
+OpenOutput1=0
+PromptOverwrite1=0
+PublishMethod1=1
+ZoomLevel1=50
+FitSCHPrintSizeToDoc1=1
+FitPCBPrintSizeToDoc1=1
+GenerateNetsInfo1=1
+MarkPins1=1
+MarkNetLabels1=1
+MarkPortsId1=1
+GenerateTOC1=1
+ShowComponentParameters1=1
+GlobalBookmarks1=0
+PDFACompliance1=Disabled
+PDFVersion1=Default
+OutputFilePath2=C:\ProgramData\Altium\Altium Designer {959362C3-8475-4F0F-9A84-E4E3F39A339C}\VaultEditCache\1021BCEC-5C48-46FB-8EBA-0FD919A2A595\Released\Project Outputs for [ProjectName]\ENG\STEP\
+ReleaseManaged2=1
+OutputBasePath2=Project Outputs for [ProjectName]
+OutputPathMedia2=ENG\STEP\
+OutputPathMediaValue2=ENG\STEP\
+OutputPathOutputer2=
+OutputPathOutputerPrefix2=
+OutputPathOutputerValue2=
+OutputFileName2=
+OutputFileNameMulti2==ProjectCode+'-'+PCBANo+'-'+PCBARev+'-('+VariantName+')-STEP '+ProjectTitle
+UseOutputNameForMulti2=0
+OutputFileNameSpecial2=
+OpenOutput2=0
+OutputFilePath3=C:\ProgramData\Altium\Altium Designer {959362C3-8475-4F0F-9A84-E4E3F39A339C}\VaultEditCache\1021BCEC-5C48-46FB-8EBA-0FD919A2A595\Released\Project Outputs for [ProjectName]\ENG\SBOM\
+ReleaseManaged3=1
+OutputBasePath3=Project Outputs for [ProjectName]
+OutputPathMedia3=ENG\SBOM\
+OutputPathMediaValue3=ENG\SBOM\
+OutputPathOutputer3=
+OutputPathOutputerPrefix3=
+OutputPathOutputerValue3=
+OutputFileName3=
+OutputFileNameMulti3==ProjectCode+'-'+PCBANo+'-'+PCBARev+'-('+VariantName+')-'+ProjectTitle+'-SBOM'
+UseOutputNameForMulti3=0
+OutputFileNameSpecial3=
+OpenOutput3=0
+
+[GeneratedFilesSettings]
+RelativeOutputPath1=C:\ProgramData\Altium\Altium Designer {959362C3-8475-4F0F-9A84-E4E3F39A339C}\VaultEditCache\72D3FB8A-82EF-4297-B194-4E7EF3F2719A\Released\Project Outputs for [ProjectName]\ENG\SCH\
+OpenOutputs1=0
+RelativeOutputPath2=C:\ProgramData\Altium\Altium Designer {959362C3-8475-4F0F-9A84-E4E3F39A339C}\VaultEditCache\1021BCEC-5C48-46FB-8EBA-0FD919A2A595\Released\Project Outputs for [ProjectName]\ENG\STEP\
+OpenOutputs2=0
+AddToProject2=0
+TimestampFolder2=0
+UseOutputName2=0
+OpenODBOutput2=0
+OpenGerberOutput2=0
+OpenNCDrillOutput2=0
+OpenIPCOutput2=0
+EnableReload2=0
+RelativeOutputPath3=C:\ProgramData\Altium\Altium Designer {959362C3-8475-4F0F-9A84-E4E3F39A339C}\VaultEditCache\1021BCEC-5C48-46FB-8EBA-0FD919A2A595\Released\Project Outputs for [ProjectName]\ENG\SBOM\
+OpenOutputs3=0
+AddToProject3=0
+TimestampFolder3=0
+UseOutputName3=0
+OpenODBOutput3=0
+OpenGerberOutput3=0
+OpenNCDrillOutput3=0
+OpenIPCOutput3=0
+EnableReload3=0
+
