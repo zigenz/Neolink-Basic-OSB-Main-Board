@@ -213,7 +213,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CSWGDDRD
 
 [Document10]
-DocumentPath=Power.SchDoc
+DocumentPath=Power Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
