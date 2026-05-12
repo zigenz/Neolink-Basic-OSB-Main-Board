@@ -229,6 +229,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NPSIBLAO
 
+[Document11]
+DocumentPath=USB Ports.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MCUNGNQA
+
 [ProjectVariant1]
 UniqueId=7430f17d-490b-46f0-a21c-887ed7c11ff2
 Description=01
