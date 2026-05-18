@@ -1,0 +1,34 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=NeoLink Basic Main Board - Top Level.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=Power Supply.SchDoc
+UniqueIDPath1=\RZSULUWO
+SheetNumber1=2
+DocumentName2=MCU.SchDoc
+UniqueIDPath2=\ZJUTHMHA
+SheetNumber2=3
+DocumentName3=USB 2.0 Hub.SchDoc
+UniqueIDPath3=\LXRTBGPM
+SheetNumber3=4
+DocumentName4=USB Ports.SchDoc
+UniqueIDPath4=\ZGKYJMMP
+SheetNumber4=5
+DocumentName5=ECG AFE.SchDoc
+UniqueIDPath5=\CEPYFZHG
+SheetNumber5=6
+DocumentName6=Channel 1.SchDoc
+UniqueIDPath6=\CEPYFZHG\DLJJHGGC
+SheetNumber6=7
+DocumentName7=Channel 2.SchDoc
+UniqueIDPath7=\CEPYFZHG\TMWYNRNU
+SheetNumber7=8
+DocumentName8=Channel 3.SchDoc
+UniqueIDPath8=\CEPYFZHG\OUMEETUZ
+SheetNumber8=9
+
+
