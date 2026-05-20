@@ -47,6 +47,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=01
 
 [Preferences]
 PrefsVaultGUID=
@@ -455,7 +456,17 @@ UniqueId=7430f17d-490b-46f0-a21c-887ed7c11ff2
 Description=01
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=10
+Variation1=Designator=R61|UniqueId=\CEPYFZHG\DLJJHGGC\FZHNAPPJ|Kind=1|AlternatePart=
+Variation2=Designator=R90|UniqueId=\CEPYFZHG\TMWYNRNU\QVLGNROP|Kind=1|AlternatePart=
+Variation3=Designator=R119|UniqueId=\CEPYFZHG\OUMEETUZ\FQBXCFYX|Kind=1|AlternatePart=
+Variation4=Designator=J1|UniqueId=\ZJUTHMHA\QOVFETNL|Kind=1|AlternatePart=
+Variation5=Designator=R77|UniqueId=\CEPYFZHG\DLJJHGGC\ZFDUZXIB|Kind=1|AlternatePart=
+Variation6=Designator=R55|UniqueId=\CEPYFZHG\DLJJHGGC\NNPVIWVA|Kind=1|AlternatePart=
+Variation7=Designator=R84|UniqueId=\CEPYFZHG\TMWYNRNU\QUQJPNOA|Kind=1|AlternatePart=
+Variation8=Designator=R106|UniqueId=\CEPYFZHG\TMWYNRNU\HOXOUZUM|Kind=1|AlternatePart=
+Variation9=Designator=R113|UniqueId=\CEPYFZHG\OUMEETUZ\TRLCQGYG|Kind=1|AlternatePart=
+Variation10=Designator=R135|UniqueId=\CEPYFZHG\OUMEETUZ\ZSBZPNBO|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
