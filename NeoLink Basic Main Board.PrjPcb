@@ -23,7 +23,7 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=1
 PowerPortNamesTakePriority=1
-AutoSheetNumbering=1
+AutoSheetNumbering=0
 AutoCrossReferences=0
 NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
@@ -197,6 +197,23 @@ GenerateClassCluster=0
 DocumentUniqueId=PDXJKLYG
 
 [Document9]
+DocumentPath=Power Tree.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EBEFJBXL
+
+[Document10]
 DocumentPath=Power Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -213,7 +230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NPSIBLAO
 
-[Document10]
+[Document11]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -230,7 +247,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWCLXPDO
 
-[Document11]
+[Document12]
 DocumentPath=USB 2.0 Hub.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -247,7 +264,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSWGDDRD
 
-[Document12]
+[Document13]
 DocumentPath=USB Ports.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -264,7 +281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCUNGNQA
 
-[Document13]
+[Document14]
 DocumentPath=USB Ports.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -281,7 +298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=USB 2.0 Hub.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -298,7 +315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=ECG AFE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -315,7 +332,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZTMJSRYA
 
-[Document16]
+[Document17]
 DocumentPath=Channel 1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -332,7 +349,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYCZNRAM
 
-[Document17]
+[Document18]
 DocumentPath=Channel 2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -349,7 +366,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IEGKIECQ
 
-[Document18]
+[Document19]
 DocumentPath=Channel 3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -366,25 +383,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRSBKFIQ
 
-[Document19]
-DocumentPath=Channel 1.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Document20]
-DocumentPath=Channel 2.Harness
+DocumentPath=Channel 1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -451,22 +451,51 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document24]
+DocumentPath=Channel 2.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=7430f17d-490b-46f0-a21c-887ed7c11ff2
 Description=01
 AllowFabrication=0
 ParameterCount=0
-VariationCount=10
-Variation1=Designator=R61|UniqueId=\CEPYFZHG\DLJJHGGC\FZHNAPPJ|Kind=1|AlternatePart=
-Variation2=Designator=R90|UniqueId=\CEPYFZHG\TMWYNRNU\QVLGNROP|Kind=1|AlternatePart=
-Variation3=Designator=R119|UniqueId=\CEPYFZHG\OUMEETUZ\FQBXCFYX|Kind=1|AlternatePart=
+VariationCount=22
+Variation1=Designator=R64|UniqueId=\CEPYFZHG\DLJJHGGC\FZHNAPPJ|Kind=1|AlternatePart=
+Variation2=Designator=R96|UniqueId=\CEPYFZHG\TMWYNRNU\QVLGNROP|Kind=1|AlternatePart=
+Variation3=Designator=R128|UniqueId=\CEPYFZHG\OUMEETUZ\FQBXCFYX|Kind=1|AlternatePart=
 Variation4=Designator=J1|UniqueId=\ZJUTHMHA\QOVFETNL|Kind=1|AlternatePart=
-Variation5=Designator=R77|UniqueId=\CEPYFZHG\DLJJHGGC\ZFDUZXIB|Kind=1|AlternatePart=
-Variation6=Designator=R55|UniqueId=\CEPYFZHG\DLJJHGGC\NNPVIWVA|Kind=1|AlternatePart=
-Variation7=Designator=R84|UniqueId=\CEPYFZHG\TMWYNRNU\QUQJPNOA|Kind=1|AlternatePart=
-Variation8=Designator=R106|UniqueId=\CEPYFZHG\TMWYNRNU\HOXOUZUM|Kind=1|AlternatePart=
-Variation9=Designator=R113|UniqueId=\CEPYFZHG\OUMEETUZ\TRLCQGYG|Kind=1|AlternatePart=
-Variation10=Designator=R135|UniqueId=\CEPYFZHG\OUMEETUZ\ZSBZPNBO|Kind=1|AlternatePart=
+Variation5=Designator=R92|UniqueId=\CEPYFZHG\DLJJHGGC\ZFDUZXIB|Kind=1|AlternatePart=
+Variation6=Designator=R76|UniqueId=\CEPYFZHG\DLJJHGGC\NNPVIWVA|Kind=1|AlternatePart=
+Variation7=Designator=R108|UniqueId=\CEPYFZHG\TMWYNRNU\QUQJPNOA|Kind=1|AlternatePart=
+Variation8=Designator=R124|UniqueId=\CEPYFZHG\TMWYNRNU\HOXOUZUM|Kind=1|AlternatePart=
+Variation9=Designator=R140|UniqueId=\CEPYFZHG\OUMEETUZ\TRLCQGYG|Kind=1|AlternatePart=
+Variation10=Designator=R156|UniqueId=\CEPYFZHG\OUMEETUZ\ZSBZPNBO|Kind=1|AlternatePart=
+Variation11=Designator=R88|UniqueId=\CEPYFZHG\DLJJHGGC\DYAYZASG|Kind=1|AlternatePart=
+Variation12=Designator=R87|UniqueId=\CEPYFZHG\DLJJHGGC\OZWTDTCW|Kind=1|AlternatePart=
+Variation13=Designator=R129|UniqueId=\CEPYFZHG\OUMEETUZ\RRGIQFLZ|Kind=1|AlternatePart=
+Variation14=Designator=R149|UniqueId=\CEPYFZHG\OUMEETUZ\HPZEIDHC|Kind=1|AlternatePart=
+Variation15=Designator=R151|UniqueId=\CEPYFZHG\OUMEETUZ\URAWBUQD|Kind=1|AlternatePart=
+Variation16=Designator=R152|UniqueId=\CEPYFZHG\OUMEETUZ\GRQOGNCB|Kind=1|AlternatePart=
+Variation17=Designator=R119|UniqueId=\CEPYFZHG\TMWYNRNU\BXOYTAKM|Kind=1|AlternatePart=
+Variation18=Designator=R120|UniqueId=\CEPYFZHG\TMWYNRNU\KRHTFXGG|Kind=1|AlternatePart=
+Variation19=Designator=R117|UniqueId=\CEPYFZHG\TMWYNRNU\APCGEXSL|Kind=1|AlternatePart=
+Variation20=Designator=R97|UniqueId=\CEPYFZHG\TMWYNRNU\CWFVEDZL|Kind=1|AlternatePart=
+Variation21=Designator=R85|UniqueId=\CEPYFZHG\DLJJHGGC\TNRJVKGL|Kind=1|AlternatePart=
+Variation22=Designator=R65|UniqueId=\CEPYFZHG\DLJJHGGC\LWYLEHMG|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
