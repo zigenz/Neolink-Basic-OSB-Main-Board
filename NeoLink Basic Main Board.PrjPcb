@@ -3,7 +3,7 @@ Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
-ChannelDesignatorFormatString=$Component
+ChannelDesignatorFormatString=$Component$RoomName
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
@@ -181,7 +181,7 @@ DocumentUniqueId=
 
 [Document8]
 DocumentPath=SCH\NeoLink Basic Main Board - Top Level.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -198,7 +198,7 @@ DocumentUniqueId=PDXJKLYG
 
 [Document9]
 DocumentPath=Power Tree.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -215,7 +215,7 @@ DocumentUniqueId=EBEFJBXL
 
 [Document10]
 DocumentPath=Power Supply.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -232,7 +232,7 @@ DocumentUniqueId=NPSIBLAO
 
 [Document11]
 DocumentPath=MCU.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -249,7 +249,7 @@ DocumentUniqueId=DWCLXPDO
 
 [Document12]
 DocumentPath=USB 2.0 Hub.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -266,7 +266,7 @@ DocumentUniqueId=CSWGDDRD
 
 [Document13]
 DocumentPath=USB Ports.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -317,7 +317,7 @@ DocumentUniqueId=
 
 [Document16]
 DocumentPath=ECG AFE.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
