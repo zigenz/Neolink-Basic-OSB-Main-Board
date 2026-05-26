@@ -1,4 +1,11 @@
 [DesignatorManager]
+LogicalDesignator0=
+LogicalPartID0=1
+DocumentName0=AFE Channel.SchDoc
+ChannelName0=A
+UniqueID0=\CEPYFZHG\DLJJHGGC\IGTSQYYD
+PhysicalDesignator0=TP35A
+PhysicalDesignatorLocked0=1
 
 [SheetNumberManager]
 SheetNumberOrder=Display Order

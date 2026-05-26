@@ -406,65 +406,65 @@ Description=01
 AllowFabrication=0
 ParameterCount=0
 VariationCount=22
-Variation1=Designator=R64|UniqueId=\CEPYFZHG\DLJJHGGC\FZHNAPPJ|Kind=1|AlternatePart=
-Variation2=Designator=R96|UniqueId=\CEPYFZHG\TMWYNRNU\QVLGNROP|Kind=1|AlternatePart=
-Variation3=Designator=R128|UniqueId=\CEPYFZHG\OUMEETUZ\FQBXCFYX|Kind=1|AlternatePart=
-Variation4=Designator=J1|UniqueId=\ZJUTHMHA\QOVFETNL|Kind=1|AlternatePart=
-Variation5=Designator=R92|UniqueId=\CEPYFZHG\DLJJHGGC\ZFDUZXIB|Kind=1|AlternatePart=
-Variation6=Designator=R76|UniqueId=\CEPYFZHG\DLJJHGGC\NNPVIWVA|Kind=1|AlternatePart=
-Variation7=Designator=R108|UniqueId=\CEPYFZHG\TMWYNRNU\QUQJPNOA|Kind=1|AlternatePart=
-Variation8=Designator=R124|UniqueId=\CEPYFZHG\TMWYNRNU\HOXOUZUM|Kind=1|AlternatePart=
-Variation9=Designator=R140|UniqueId=\CEPYFZHG\OUMEETUZ\TRLCQGYG|Kind=1|AlternatePart=
-Variation10=Designator=R156|UniqueId=\CEPYFZHG\OUMEETUZ\ZSBZPNBO|Kind=1|AlternatePart=
-Variation11=Designator=R88|UniqueId=\CEPYFZHG\DLJJHGGC\DYAYZASG|Kind=1|AlternatePart=
-Variation12=Designator=R87|UniqueId=\CEPYFZHG\DLJJHGGC\OZWTDTCW|Kind=1|AlternatePart=
-Variation13=Designator=R129|UniqueId=\CEPYFZHG\OUMEETUZ\RRGIQFLZ|Kind=1|AlternatePart=
-Variation14=Designator=R149|UniqueId=\CEPYFZHG\OUMEETUZ\HPZEIDHC|Kind=1|AlternatePart=
-Variation15=Designator=R151|UniqueId=\CEPYFZHG\OUMEETUZ\URAWBUQD|Kind=1|AlternatePart=
-Variation16=Designator=R152|UniqueId=\CEPYFZHG\OUMEETUZ\GRQOGNCB|Kind=1|AlternatePart=
-Variation17=Designator=R119|UniqueId=\CEPYFZHG\TMWYNRNU\BXOYTAKM|Kind=1|AlternatePart=
-Variation18=Designator=R120|UniqueId=\CEPYFZHG\TMWYNRNU\KRHTFXGG|Kind=1|AlternatePart=
-Variation19=Designator=R117|UniqueId=\CEPYFZHG\TMWYNRNU\APCGEXSL|Kind=1|AlternatePart=
-Variation20=Designator=R97|UniqueId=\CEPYFZHG\TMWYNRNU\CWFVEDZL|Kind=1|AlternatePart=
-Variation21=Designator=R85|UniqueId=\CEPYFZHG\DLJJHGGC\TNRJVKGL|Kind=1|AlternatePart=
-Variation22=Designator=R65|UniqueId=\CEPYFZHG\DLJJHGGC\LWYLEHMG|Kind=1|AlternatePart=
+Variation1=Designator=R64A|UniqueId=\CEPYFZHG\DLJJHGGC\FZHNAPPJ|Kind=1|AlternatePart=
+Variation2=Designator=J1|UniqueId=\ZJUTHMHA\QOVFETNL|Kind=1|AlternatePart=
+Variation3=Designator=R92A|UniqueId=\CEPYFZHG\DLJJHGGC\ZFDUZXIB|Kind=1|AlternatePart=
+Variation4=Designator=R76A|UniqueId=\CEPYFZHG\DLJJHGGC\NNPVIWVA|Kind=1|AlternatePart=
+Variation5=Designator=R88A|UniqueId=\CEPYFZHG\DLJJHGGC\DYAYZASG|Kind=1|AlternatePart=
+Variation6=Designator=R87A|UniqueId=\CEPYFZHG\DLJJHGGC\OZWTDTCW|Kind=1|AlternatePart=
+Variation7=Designator=R85A|UniqueId=\CEPYFZHG\DLJJHGGC\TNRJVKGL|Kind=1|AlternatePart=
+Variation8=Designator=R65A|UniqueId=\CEPYFZHG\DLJJHGGC\LWYLEHMG|Kind=1|AlternatePart=
+Variation9=Designator=R64B|UniqueId=\CEPYFZHG\NBMFNOEN\FZHNAPPJ|Kind=1|AlternatePart=
+Variation10=Designator=R64C|UniqueId=\CEPYFZHG\MNOAHNCZ\FZHNAPPJ|Kind=1|AlternatePart=
+Variation11=Designator=R65B|UniqueId=\CEPYFZHG\NBMFNOEN\LWYLEHMG|Kind=1|AlternatePart=
+Variation12=Designator=R65C|UniqueId=\CEPYFZHG\MNOAHNCZ\LWYLEHMG|Kind=1|AlternatePart=
+Variation13=Designator=R76B|UniqueId=\CEPYFZHG\NBMFNOEN\NNPVIWVA|Kind=1|AlternatePart=
+Variation14=Designator=R76C|UniqueId=\CEPYFZHG\MNOAHNCZ\NNPVIWVA|Kind=1|AlternatePart=
+Variation15=Designator=R85B|UniqueId=\CEPYFZHG\NBMFNOEN\TNRJVKGL|Kind=1|AlternatePart=
+Variation16=Designator=R85C|UniqueId=\CEPYFZHG\MNOAHNCZ\TNRJVKGL|Kind=1|AlternatePart=
+Variation17=Designator=R87B|UniqueId=\CEPYFZHG\NBMFNOEN\OZWTDTCW|Kind=1|AlternatePart=
+Variation18=Designator=R87C|UniqueId=\CEPYFZHG\MNOAHNCZ\OZWTDTCW|Kind=1|AlternatePart=
+Variation19=Designator=R88B|UniqueId=\CEPYFZHG\NBMFNOEN\DYAYZASG|Kind=1|AlternatePart=
+Variation20=Designator=R88C|UniqueId=\CEPYFZHG\MNOAHNCZ\DYAYZASG|Kind=1|AlternatePart=
+Variation21=Designator=R92B|UniqueId=\CEPYFZHG\NBMFNOEN\ZFDUZXIB|Kind=1|AlternatePart=
+Variation22=Designator=R92C|UniqueId=\CEPYFZHG\MNOAHNCZ\ZFDUZXIB|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectTitle
-Value=NeoLink Basic Main Board
+Name=AuthorInitials
+Value=ASH
 
 [Parameter2]
-Name=ProjectCode
-Value=VIT-2679
+Name=CGProjectName
+Value=NeoLink Basic
 
 [Parameter3]
-Name=PCBRev
-Value=01
+Name=ClientName
+Value=VITALTRACE PTY LTD
 
 [Parameter4]
-Name=PCBNo
-Value=7000
+Name=PCBANo
+Value=7001
 
 [Parameter5]
 Name=PCBARev
 Value=01
 
 [Parameter6]
-Name=PCBANo
-Value=7001
+Name=PCBNo
+Value=7000
 
 [Parameter7]
-Name=ClientName
-Value=VITALTRACE PTY LTD
+Name=PCBRev
+Value=01
 
 [Parameter8]
-Name=CGProjectName
-Value=NeoLink Basic
+Name=ProjectCode
+Value=VIT-2679
 
 [Parameter9]
-Name=AuthorInitials
-Value=ASH
+Name=ProjectTitle
+Value=NeoLink Basic Main Board
 
 [Configuration1]
 Name=Sources
@@ -664,6 +664,16 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+OutputType22=SIMetrixNetlist
+OutputName22=SIMetrix
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=SIMPLISNetlist
+OutputName23=SIMPLIS
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -675,6 +685,16 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -918,6 +938,11 @@ OutputName10=Manufacturing Data
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
+OutputType11=BoasTools
+OutputName11=BoasTools Html BOM
+OutputDocumentPath11=
+OutputVariantName11=[No Variations]
+OutputDefault11=0
 
 [OutputGroup7]
 Name=Other Outputs
