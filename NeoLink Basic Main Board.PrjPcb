@@ -232,7 +232,7 @@ DocumentUniqueId=NPSIBLAO
 
 [Document11]
 DocumentPath=MCU.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -334,7 +334,7 @@ DocumentUniqueId=ZTMJSRYA
 
 [Document17]
 DocumentPath=AFE Channel.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -405,7 +405,7 @@ UniqueId=7430f17d-490b-46f0-a21c-887ed7c11ff2
 Description=01
 AllowFabrication=0
 ParameterCount=0
-VariationCount=22
+VariationCount=24
 Variation1=Designator=R64A|UniqueId=\CEPYFZHG\DLJJHGGC\FZHNAPPJ|Kind=1|AlternatePart=
 Variation2=Designator=J1|UniqueId=\ZJUTHMHA\QOVFETNL|Kind=1|AlternatePart=
 Variation3=Designator=R92A|UniqueId=\CEPYFZHG\DLJJHGGC\ZFDUZXIB|Kind=1|AlternatePart=
@@ -428,6 +428,8 @@ Variation19=Designator=R88B|UniqueId=\CEPYFZHG\NBMFNOEN\DYAYZASG|Kind=1|Alternat
 Variation20=Designator=R88C|UniqueId=\CEPYFZHG\MNOAHNCZ\DYAYZASG|Kind=1|AlternatePart=
 Variation21=Designator=R92B|UniqueId=\CEPYFZHG\NBMFNOEN\ZFDUZXIB|Kind=1|AlternatePart=
 Variation22=Designator=R92C|UniqueId=\CEPYFZHG\MNOAHNCZ\ZFDUZXIB|Kind=1|AlternatePart=
+Variation23=Designator=R55|UniqueId=\LXRTBGPM\JXZMENEO|Kind=1|AlternatePart=
+Variation24=Designator=R98|UniqueId=\LXRTBGPM\TDIOCHFF|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
