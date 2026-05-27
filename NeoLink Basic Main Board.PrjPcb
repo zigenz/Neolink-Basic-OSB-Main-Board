@@ -407,29 +407,29 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=24
 Variation1=Designator=R64A|UniqueId=\CEPYFZHG\DLJJHGGC\FZHNAPPJ|Kind=1|AlternatePart=
-Variation2=Designator=J1|UniqueId=\ZJUTHMHA\QOVFETNL|Kind=1|AlternatePart=
-Variation3=Designator=R92A|UniqueId=\CEPYFZHG\DLJJHGGC\ZFDUZXIB|Kind=1|AlternatePart=
-Variation4=Designator=R76A|UniqueId=\CEPYFZHG\DLJJHGGC\NNPVIWVA|Kind=1|AlternatePart=
-Variation5=Designator=R88A|UniqueId=\CEPYFZHG\DLJJHGGC\DYAYZASG|Kind=1|AlternatePart=
-Variation6=Designator=R87A|UniqueId=\CEPYFZHG\DLJJHGGC\OZWTDTCW|Kind=1|AlternatePart=
-Variation7=Designator=R85A|UniqueId=\CEPYFZHG\DLJJHGGC\TNRJVKGL|Kind=1|AlternatePart=
-Variation8=Designator=R65A|UniqueId=\CEPYFZHG\DLJJHGGC\LWYLEHMG|Kind=1|AlternatePart=
-Variation9=Designator=R64B|UniqueId=\CEPYFZHG\NBMFNOEN\FZHNAPPJ|Kind=1|AlternatePart=
-Variation10=Designator=R64C|UniqueId=\CEPYFZHG\MNOAHNCZ\FZHNAPPJ|Kind=1|AlternatePart=
-Variation11=Designator=R65B|UniqueId=\CEPYFZHG\NBMFNOEN\LWYLEHMG|Kind=1|AlternatePart=
-Variation12=Designator=R65C|UniqueId=\CEPYFZHG\MNOAHNCZ\LWYLEHMG|Kind=1|AlternatePart=
-Variation13=Designator=R76B|UniqueId=\CEPYFZHG\NBMFNOEN\NNPVIWVA|Kind=1|AlternatePart=
-Variation14=Designator=R76C|UniqueId=\CEPYFZHG\MNOAHNCZ\NNPVIWVA|Kind=1|AlternatePart=
-Variation15=Designator=R85B|UniqueId=\CEPYFZHG\NBMFNOEN\TNRJVKGL|Kind=1|AlternatePart=
-Variation16=Designator=R85C|UniqueId=\CEPYFZHG\MNOAHNCZ\TNRJVKGL|Kind=1|AlternatePart=
-Variation17=Designator=R87B|UniqueId=\CEPYFZHG\NBMFNOEN\OZWTDTCW|Kind=1|AlternatePart=
-Variation18=Designator=R87C|UniqueId=\CEPYFZHG\MNOAHNCZ\OZWTDTCW|Kind=1|AlternatePart=
-Variation19=Designator=R88B|UniqueId=\CEPYFZHG\NBMFNOEN\DYAYZASG|Kind=1|AlternatePart=
-Variation20=Designator=R88C|UniqueId=\CEPYFZHG\MNOAHNCZ\DYAYZASG|Kind=1|AlternatePart=
-Variation21=Designator=R92B|UniqueId=\CEPYFZHG\NBMFNOEN\ZFDUZXIB|Kind=1|AlternatePart=
-Variation22=Designator=R92C|UniqueId=\CEPYFZHG\MNOAHNCZ\ZFDUZXIB|Kind=1|AlternatePart=
-Variation23=Designator=R55|UniqueId=\LXRTBGPM\JXZMENEO|Kind=1|AlternatePart=
-Variation24=Designator=R98|UniqueId=\LXRTBGPM\TDIOCHFF|Kind=1|AlternatePart=
+Variation2=Designator=R92A|UniqueId=\CEPYFZHG\DLJJHGGC\ZFDUZXIB|Kind=1|AlternatePart=
+Variation3=Designator=R76A|UniqueId=\CEPYFZHG\DLJJHGGC\NNPVIWVA|Kind=1|AlternatePart=
+Variation4=Designator=R88A|UniqueId=\CEPYFZHG\DLJJHGGC\DYAYZASG|Kind=1|AlternatePart=
+Variation5=Designator=R87A|UniqueId=\CEPYFZHG\DLJJHGGC\OZWTDTCW|Kind=1|AlternatePart=
+Variation6=Designator=R85A|UniqueId=\CEPYFZHG\DLJJHGGC\TNRJVKGL|Kind=1|AlternatePart=
+Variation7=Designator=R65A|UniqueId=\CEPYFZHG\DLJJHGGC\LWYLEHMG|Kind=1|AlternatePart=
+Variation8=Designator=R64B|UniqueId=\CEPYFZHG\NBMFNOEN\FZHNAPPJ|Kind=1|AlternatePart=
+Variation9=Designator=R64C|UniqueId=\CEPYFZHG\MNOAHNCZ\FZHNAPPJ|Kind=1|AlternatePart=
+Variation10=Designator=R65B|UniqueId=\CEPYFZHG\NBMFNOEN\LWYLEHMG|Kind=1|AlternatePart=
+Variation11=Designator=R65C|UniqueId=\CEPYFZHG\MNOAHNCZ\LWYLEHMG|Kind=1|AlternatePart=
+Variation12=Designator=R76B|UniqueId=\CEPYFZHG\NBMFNOEN\NNPVIWVA|Kind=1|AlternatePart=
+Variation13=Designator=R76C|UniqueId=\CEPYFZHG\MNOAHNCZ\NNPVIWVA|Kind=1|AlternatePart=
+Variation14=Designator=R85B|UniqueId=\CEPYFZHG\NBMFNOEN\TNRJVKGL|Kind=1|AlternatePart=
+Variation15=Designator=R85C|UniqueId=\CEPYFZHG\MNOAHNCZ\TNRJVKGL|Kind=1|AlternatePart=
+Variation16=Designator=R87B|UniqueId=\CEPYFZHG\NBMFNOEN\OZWTDTCW|Kind=1|AlternatePart=
+Variation17=Designator=R87C|UniqueId=\CEPYFZHG\MNOAHNCZ\OZWTDTCW|Kind=1|AlternatePart=
+Variation18=Designator=R88B|UniqueId=\CEPYFZHG\NBMFNOEN\DYAYZASG|Kind=1|AlternatePart=
+Variation19=Designator=R88C|UniqueId=\CEPYFZHG\MNOAHNCZ\DYAYZASG|Kind=1|AlternatePart=
+Variation20=Designator=R92B|UniqueId=\CEPYFZHG\NBMFNOEN\ZFDUZXIB|Kind=1|AlternatePart=
+Variation21=Designator=R92C|UniqueId=\CEPYFZHG\MNOAHNCZ\ZFDUZXIB|Kind=1|AlternatePart=
+Variation22=Designator=R55|UniqueId=\LXRTBGPM\JXZMENEO|Kind=1|AlternatePart=
+Variation23=Designator=R98|UniqueId=\LXRTBGPM\TDIOCHFF|Kind=1|AlternatePart=
+Variation24=Designator=R94|UniqueId=\LXRTBGPM\ANLHOJGT|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
@@ -1618,8 +1618,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Vault Name
 ComponentLibraryIdentifier0=Capgemini AUS PSE Altium 365
-ComponentDesignItemID0=CMP-0000003482-2
-ComponentSymbolReference0=CAP-POL
+ComponentDesignItemID0=CMP-0000003485-1
+ComponentSymbolReference0=THS4536RUNR
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1645,32 +1645,16 @@ ParameterName3=ComponentLink1URL
 ParameterUpdate3=1
 ParameterName4=Description
 ParameterUpdate4=1
-ParameterName5=ESR
+ParameterName5=Library Reference
 ParameterUpdate5=1
-ParameterName6=Library Reference
+ParameterName6=Manufacturer
 ParameterUpdate6=1
-ParameterName7=Manufacturer
+ParameterName7=Manufacturer Part Number
 ParameterUpdate7=1
-ParameterName8=Manufacturer Part Number
-ParameterUpdate8=1
-ParameterName9=Ripple Current @ 120Hz
-ParameterUpdate9=1
-ParameterName10=Temperature (Max)
-ParameterUpdate10=1
-ParameterName11=Temperature (Min)
-ParameterUpdate11=1
-ParameterName12=Tolerance
-ParameterUpdate12=1
-ParameterName13=Type
-ParameterUpdate13=1
-ParameterName14=Value
-ParameterUpdate14=1
-ParameterName15=Voltage
-ParameterUpdate15=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=T495D
+ModelName0=THS4536RUNR
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
