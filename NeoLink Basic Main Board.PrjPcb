@@ -423,6 +423,10 @@ Variation14=Designator=R98|UniqueId=\LXRTBGPM\TDIOCHFF|Kind=1|AlternatePart=
 Variation15=Designator=R94|UniqueId=\LXRTBGPM\ANLHOJGT|Kind=1|AlternatePart=
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for NeoLink Basic Main Board\Design Rule Check - NeoLink Basic Main Board.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=AuthorInitials
 Value=ASH
