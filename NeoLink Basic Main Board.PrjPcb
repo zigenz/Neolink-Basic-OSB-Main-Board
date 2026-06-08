@@ -405,7 +405,7 @@ UniqueId=7430f17d-490b-46f0-a21c-887ed7c11ff2
 Description=01
 AllowFabrication=0
 ParameterCount=0
-VariationCount=15
+VariationCount=18
 Variation1=Designator=R64A|UniqueId=\CEPYFZHG\DLJJHGGC\FZHNAPPJ|Kind=1|AlternatePart=
 Variation2=Designator=R76A|UniqueId=\CEPYFZHG\DLJJHGGC\NNPVIWVA|Kind=1|AlternatePart=
 Variation3=Designator=R85A|UniqueId=\CEPYFZHG\DLJJHGGC\TNRJVKGL|Kind=1|AlternatePart=
@@ -421,6 +421,9 @@ Variation12=Designator=R85C|UniqueId=\CEPYFZHG\MNOAHNCZ\TNRJVKGL|Kind=1|Alternat
 Variation13=Designator=R55|UniqueId=\LXRTBGPM\JXZMENEO|Kind=1|AlternatePart=
 Variation14=Designator=R98|UniqueId=\LXRTBGPM\TDIOCHFF|Kind=1|AlternatePart=
 Variation15=Designator=R94|UniqueId=\LXRTBGPM\ANLHOJGT|Kind=1|AlternatePart=
+Variation16=Designator=R24A|UniqueId=\CEPYFZHG\DLJJHGGC\DUOFFLOQ|Kind=1|AlternatePart=
+Variation17=Designator=R24B|UniqueId=\CEPYFZHG\NBMFNOEN\DUOFFLOQ|Kind=1|AlternatePart=
+Variation18=Designator=R24C|UniqueId=\CEPYFZHG\MNOAHNCZ\DUOFFLOQ|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
