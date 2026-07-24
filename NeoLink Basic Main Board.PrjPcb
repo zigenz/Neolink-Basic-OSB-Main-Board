@@ -405,7 +405,7 @@ UniqueId=7430f17d-490b-46f0-a21c-887ed7c11ff2
 Description=01
 AllowFabrication=0
 ParameterCount=0
-VariationCount=18
+VariationCount=27
 Variation1=Designator=R64A|UniqueId=\CEPYFZHG\DLJJHGGC\FZHNAPPJ|Kind=1|AlternatePart=
 Variation2=Designator=R76A|UniqueId=\CEPYFZHG\DLJJHGGC\NNPVIWVA|Kind=1|AlternatePart=
 Variation3=Designator=R85A|UniqueId=\CEPYFZHG\DLJJHGGC\TNRJVKGL|Kind=1|AlternatePart=
@@ -424,6 +424,15 @@ Variation15=Designator=R94|UniqueId=\LXRTBGPM\ANLHOJGT|Kind=1|AlternatePart=
 Variation16=Designator=R24A|UniqueId=\CEPYFZHG\DLJJHGGC\DUOFFLOQ|Kind=1|AlternatePart=
 Variation17=Designator=R24B|UniqueId=\CEPYFZHG\NBMFNOEN\DUOFFLOQ|Kind=1|AlternatePart=
 Variation18=Designator=R24C|UniqueId=\CEPYFZHG\MNOAHNCZ\DUOFFLOQ|Kind=1|AlternatePart=
+Variation19=Designator=R44|UniqueId=\LXRTBGPM\QCAEKRAV|Kind=1|AlternatePart=
+Variation20=Designator=R51|UniqueId=\LXRTBGPM\THHHKXUN|Kind=1|AlternatePart=
+Variation21=Designator=R54|UniqueId=\LXRTBGPM\LWQNRPRO|Kind=1|AlternatePart=
+Variation22=Designator=R53|UniqueId=\LXRTBGPM\QPQALZVJ|Kind=1|AlternatePart=
+Variation23=Designator=R52|UniqueId=\LXRTBGPM\EBEVIWBF|Kind=1|AlternatePart=
+Variation24=Designator=C65|UniqueId=\LXRTBGPM\HWLSAAYZ|Kind=1|AlternatePart=
+Variation25=Designator=R50|UniqueId=\LXRTBGPM\NUTJJBBM|Kind=1|AlternatePart=
+Variation26=Designator=R49|UniqueId=\LXRTBGPM\ERTCMUZV|Kind=1|AlternatePart=
+Variation27=Designator=U15|UniqueId=\LXRTBGPM\LKKVFXMA|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -516,11 +525,11 @@ ConfigurationType=Assembly
 OutputDir=
 
 [Generic_SmartPDF]
-AutoOpenFile=0
+AutoOpenFile=-1
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
-ProjectMode=0
+ProjectMode=-1
 ZoomPrecision=50
 AddNetsInformation=-1
 AddNetPins=-1
@@ -529,7 +538,7 @@ AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
 ExportBOM=0
-TemplateFilename=
+TemplateFilename=Board Stack Report.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=1
 SCH_PrintColor=0
