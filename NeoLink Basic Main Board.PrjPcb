@@ -440,40 +440,40 @@ DocumentPath=Project Outputs for NeoLink Basic Main Board\Design Rule Check - Ne
 DItemRevisionGUID=
 
 [Parameter1]
-Name=AuthorInitials
-Value=ASH
+Name=ProjectTitle
+Value=NeoLink Basic Main Board
 
 [Parameter2]
-Name=CGProjectName
-Value=NeoLink Basic
-
-[Parameter3]
-Name=ClientName
-Value=VITALTRACE PTY LTD
-
-[Parameter4]
-Name=PCBANo
-Value=7001
-
-[Parameter5]
-Name=PCBARev
-Value=03
-
-[Parameter6]
-Name=PCBNo
-Value=7000
-
-[Parameter7]
-Name=PCBRev
-Value=03
-
-[Parameter8]
 Name=ProjectCode
 Value=VIT-2679
 
+[Parameter3]
+Name=PCBRev
+Value=04
+
+[Parameter4]
+Name=PCBNo
+Value=7000
+
+[Parameter5]
+Name=PCBARev
+Value=04
+
+[Parameter6]
+Name=PCBANo
+Value=7001
+
+[Parameter7]
+Name=ClientName
+Value=VITALTRACE PTY LTD
+
+[Parameter8]
+Name=CGProjectName
+Value=NeoLink Basic
+
 [Parameter9]
-Name=ProjectTitle
-Value=NeoLink Basic Main Board
+Name=AuthorInitials
+Value=ASH
 
 [Configuration1]
 Name=Sources
