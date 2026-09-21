@@ -449,7 +449,7 @@ Value=VIT-2679
 
 [Parameter3]
 Name=PCBRev
-Value=04
+Value=05
 
 [Parameter4]
 Name=PCBNo
@@ -457,7 +457,7 @@ Value=7000
 
 [Parameter5]
 Name=PCBARev
-Value=04
+Value=05
 
 [Parameter6]
 Name=PCBANo
