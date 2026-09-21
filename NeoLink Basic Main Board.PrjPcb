@@ -181,7 +181,7 @@ DocumentUniqueId=
 
 [Document8]
 DocumentPath=SCH\NeoLink Basic Main Board - Top Level.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -191,14 +191,14 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDXJKLYG
 
 [Document9]
 DocumentPath=Power Tree.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -208,14 +208,14 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EBEFJBXL
 
 [Document10]
 DocumentPath=Power Supply.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -225,14 +225,14 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NPSIBLAO
 
 [Document11]
 DocumentPath=MCU.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -242,14 +242,14 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWCLXPDO
 
 [Document12]
 DocumentPath=USB 2.0 Hub.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -259,14 +259,14 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSWGDDRD
 
 [Document13]
 DocumentPath=USB Ports.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -276,7 +276,7 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCUNGNQA
@@ -317,7 +317,7 @@ DocumentUniqueId=
 
 [Document16]
 DocumentPath=ECG AFE.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -327,7 +327,7 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZTMJSRYA
@@ -344,7 +344,7 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYCZNRAM
@@ -440,40 +440,40 @@ DocumentPath=Project Outputs for NeoLink Basic Main Board\Design Rule Check - Ne
 DItemRevisionGUID=
 
 [Parameter1]
-Name=AuthorInitials
-Value=ASH
+Name=ProjectTitle
+Value=NeoLink Basic Main Board
 
 [Parameter2]
-Name=CGProjectName
-Value=NeoLink Basic
+Name=ProjectCode
+Value=VIT-2679
 
 [Parameter3]
-Name=ClientName
-Value=VITALTRACE PTY LTD
+Name=PCBRev
+Value=04
 
 [Parameter4]
-Name=PCBANo
-Value=7001
+Name=PCBNo
+Value=7000
 
 [Parameter5]
 Name=PCBARev
 Value=04
 
 [Parameter6]
-Name=PCBNo
-Value=7000
+Name=PCBANo
+Value=7001
 
 [Parameter7]
-Name=PCBRev
-Value=04
+Name=ClientName
+Value=VITALTRACE PTY LTD
 
 [Parameter8]
-Name=ProjectCode
-Value=VIT-2679
+Name=CGProjectName
+Value=NeoLink Basic
 
 [Parameter9]
-Name=ProjectTitle
-Value=NeoLink Basic Main Board
+Name=AuthorInitials
+Value=ASH
 
 [Configuration1]
 Name=Sources
@@ -1620,7 +1620,7 @@ IndexStartValue8=1
 Suffix8=
 
 [PrjClassGen]
-CompClassManualEnabled=0
+CompClassManualEnabled=1
 CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
@@ -1635,8 +1635,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Vault Name
 ComponentLibraryIdentifier0=Capgemini AUS PSE Altium 365
-ComponentDesignItemID0=CMP-0000003462-2
-ComponentSymbolReference0=FT-CAP
+ComponentDesignItemID0=CMP-0000003485-2
+ComponentSymbolReference0=THS4536RUNR
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1656,22 +1656,22 @@ ParameterName0=Comment
 ParameterUpdate0=1
 ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=ComponentLink1Description
 ParameterUpdate2=1
-ParameterName3=Dielectric
+ParameterName3=ComponentLink1URL
 ParameterUpdate3=1
-ParameterName4=Library Reference
+ParameterName4=Description
 ParameterUpdate4=1
-ParameterName5=Tolerance
+ParameterName5=Library Reference
 ParameterUpdate5=1
-ParameterName6=Value
+ParameterName6=Manufacturer
 ParameterUpdate6=1
-ParameterName7=Voltage
+ParameterName7=Manufacturer Part Number
 ParameterUpdate7=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=FEEDTHROUGH-1206
+ModelName0=THS4536RUNR
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
