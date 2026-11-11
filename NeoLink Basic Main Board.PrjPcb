@@ -36,9 +36,7 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=914A69E8-0052-437B-B7EF-91EFD8E5D986
-VaultGUID=8C17DA0B-E907-4658-826C-5F437C7E7423
-ReleaseVaultName=Capgemini AUS PSE Altium 365
+ManagedProjectGUID=
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=8C17DA0B-E907-4658-826C-5F437C7E7423&ItemGUID=D2A4511E-A11C-4906-B787-BE1B6FE5DB61&RevisionGUID=F8E7C072-BAE3-4A0A-B2B2-A5567C9D68D4&"MainFilename=[ProjectName].PrjPCB"
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
@@ -440,40 +438,40 @@ DocumentPath=Project Outputs for NeoLink Basic Main Board\Design Rule Check - Ne
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectTitle
-Value=NeoLink Basic Main Board
+Name=AuthorInitials
+Value=ASH
 
 [Parameter2]
-Name=ProjectCode
-Value=VIT-2679
+Name=CGProjectName
+Value=NeoLink Basic
 
 [Parameter3]
-Name=PCBRev
-Value=05
+Name=ClientName
+Value=VITALTRACE PTY LTD
 
 [Parameter4]
-Name=PCBNo
-Value=7000
+Name=PCBANo
+Value=7001
 
 [Parameter5]
 Name=PCBARev
 Value=05
 
 [Parameter6]
-Name=PCBANo
-Value=7001
+Name=PCBNo
+Value=7000
 
 [Parameter7]
-Name=ClientName
-Value=VITALTRACE PTY LTD
+Name=PCBRev
+Value=05
 
 [Parameter8]
-Name=CGProjectName
-Value=NeoLink Basic
+Name=ProjectCode
+Value=VIT-2679
 
 [Parameter9]
-Name=AuthorInitials
-Value=ASH
+Name=ProjectTitle
+Value=NeoLink Basic Main Board
 
 [Configuration1]
 Name=Sources
